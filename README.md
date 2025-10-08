@@ -28,7 +28,7 @@ Vehicle owners can also manage their vehicle’s maintenance history, track serv
 - **Server:** Node.js / Express.js or Firebase Functions  
 - **Database:** Firebase Firestore / PostgreSQL  
 - **Authentication:** Firebase Auth (Email/Password, Role-based access)  
-- **Storage:** Firebase Storage / AWS S3  
+- **Storage:** Firebase Storage 
 
 ---
 
@@ -48,6 +48,13 @@ Vehicle owners can also manage their vehicle’s maintenance history, track serv
 | **Admin** | Manage users, monitor system, approve data changes |
 
 ---
+## 🧑‍💻 Screen Shot
+ <img src="https://github.com/user-attachments/assets/dac4578e-88b7-4b8b-ab32-c69b1fe9f9da" width="250" height="500" />
+ <img src="https://github.com/user-attachments/assets/736003a9-2276-4ce9-8fec-2d3618f475ad" width="250" height="500" />
+ <img src="https://github.com/user-attachments/assets/afbf8cab-a0ae-48cd-9b32-43fffcabed7c" width="250" height="500" />
+ <img src="https://github.com/user-attachments/assets/089ae7b5-9f02-49fc-b6e8-e48836bc847b" width="250" height="500" />
+ <img src="https://github.com/user-attachments/assets/b268f65e-7864-4652-833c-955ef71954ca" width="250" height="500" />
+ <img src="https://github.com/user-attachments/assets/6dae8af9-7f27-4e0f-a3b1-6f699b13d677" width="250" height="500" />
 
 ## ⚙️ Installation
 ### Clone Repository
