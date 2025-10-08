@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="12dp"
+    app:cardBackgroundColor="@color/bluelight"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/dateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Serviced Date"
+            android:fontFamily="@font/lexenddecamedium"
+            android:textColor="@color/bluedark"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/serviceTypeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lexenddecamedium"
+            android:text="Service Type"
+            android:textColor="@color/bluedark"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/costEstimationTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lexenddecamedium"
+            android:text="Payed Cost"
+            android:textColor="@color/bluedark"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/serviceLocationTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lexenddecamedium"
+            android:text="Service Location"
+            android:textColor="@color/bluedark"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/serviceDescriptionTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lexenddecamedium"
+            android:text="Service Description"
+            android:textColor="@color/bluedark"
+            android:textSize="16sp" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

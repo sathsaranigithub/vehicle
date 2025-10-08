@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203158676548",
+    "project_id": "inventory-88449",
+    "storage_bucket": "inventory-88449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203158676548:android:974b3862aed32f30e74811",
+        "android_client_info": {
+          "package_name": "com.example.checkmycar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wkd9vBPiIMEwfyd1v4hOGD10h5ejh5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
