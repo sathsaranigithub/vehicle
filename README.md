@@ -21,7 +21,7 @@ Vehicle owners can also manage their vehicle’s maintenance history, track serv
 
 ## 🧩 Tech Stack
 ### Frontend
-- **Web:** React / Next.js  
+- **Web:** Next.js / Nest.js 
 - **Mobile:** Java/Firebase  
 
 ### Backend
